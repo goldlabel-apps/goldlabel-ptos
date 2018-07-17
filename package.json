@@ -1,6 +1,16 @@
 {
   "name": "ptos",
-  "version": "0.0.1",
+  "description": "Periodic Table Of Swearing",
+  "version": "0.0.2",
+  "author": {
+    "name": "listingslab",
+    "email": "listingslab@gmail.com"
+  },
+  "url": "https://listingslab.com/ptos",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/listingslab/ptos"
+  },
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
@@ -89,5 +99,15 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "license": "0BSD",
+  "keywords": [
+    "JavaScript",
+    "WordPress",
+    "React",
+    "Redux",
+    "Firebase",
+    "API",
+    "PWA"
+  ]
 }
